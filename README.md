@@ -17,7 +17,7 @@ This project was created as a small experimental build focused on interaction de
 ## Technologies Used
 - Unity (WebGL)  
 - C#  
-- HTML / CSS (hosting & iframe integration)  
+- HTML / CSS
 
 
 ## Author
