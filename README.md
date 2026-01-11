@@ -25,5 +25,5 @@ Created by **Dominique Thomas**
 [github.com/dominique-thomas](https://github.com/dominique-thomas)
 
 ## License  
-**Copyright (c) 2024 dominique-thomas**  
+**Copyright (c) 2026 dominique-thomas**  
 This project is shared publicly for demonstration and educational purposes only. Reuse, redistribution, or republishing of any source code or assets is not permitted without explicit permission from the author.
