@@ -1,4 +1,4 @@
-# Frogo 🐸  
+# Frogo 
 
 **A Cozy Virtual Pet Experiment**
 Frogo is a small, Tamagotchi-inspired virtual pet experience featuring a single frog companion.
